@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0c31ce52_002D71f1_002D4f6e_002Da727_002Ddbbb7fd66a90/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BooksControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F41B6FC9-E098-4F33-9B92-2D64076BCF62::net8.0::BooksAPI.Tests.BooksControllerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9bcf56c4_002D96ca_002D4bfe_002Daf3e_002Dca93c5d53e7b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetBooks_ReturnsAllBooks" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F41B6FC9-E098-4F33-9B92-2D64076BCF62::net8.0::BooksAPI.Tests.BooksControllerTests.GetBooks_ReturnsAllBooks&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9fb1514c_002D8079_002D4c47_002Dacfe_002D3450bc1070b7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;BooksAPI.Tests&amp;gt; #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="D:\projects\ASP.NET\BooksAPI\BooksAPI.Tests" Presentation="&amp;lt;BooksAPI.Tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f3028e93_002Dede5_002D4753_002Db2d4_002Da157f47e810c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;BooksAPI.Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="D:\projects\ASP.NET\BooksAPI\BooksAPI.Tests" Presentation="&amp;lt;BooksAPI.Tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
